@@ -72,6 +72,11 @@
         <artifactId>selenium-java</artifactId>
         <version>4.11.0</version> <!-- Use the latest stable version -->
     </dependency>
+    <dependency>
+        <groupId>org.seleniumhq.selenium</groupId>
+        <artifactId>selenium-chrome-driver</artifactId>
+        <version>4.11.0</version>
+    </dependency>
 
 
   </dependencies>
